@@ -1,0 +1,29 @@
+{
+  "id": "https://danielwilksch.github.io/uv-demo/collection/index.json",
+  "type": "Collection",
+  "label": "Example documents from PROV",
+  "members": [
+    {
+      "id": "https://danielwilksch.github.io/uv-demo/collection/3171936696/index.json",
+      "type": "Manifest",
+      "label": "366/09 RACV car race/trials 1920-1930s",
+      "thumbnail": [
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/3171936696/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json",
+      "type": "Manifest",
+      "label": "349/761 Basil BURDETT",
+      "thumbnail": [
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/thumb.jpg",
+          "type": "Image"
+        }
+      ]
+    }
+  ]
+}

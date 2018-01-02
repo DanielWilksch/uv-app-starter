@@ -1,0 +1,63 @@
+{
+  "id": "https://danielwilksch.github.io/uv-demo/collection/3171936696/index.json",
+  "type": "Manifest",
+  "label": "366/09 RACV car race/trials 1920-1930s",
+  "sequences": [
+    {
+      "type": "Sequence",
+      "canvases": [
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/3171936696/index.json/canvas/0",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/3171936696/index.json/canvas/0/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/3171936696/index.json/canvas/0/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/3171936696/_image-01/12903-p00001-000477-080.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-01"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/3171936696/index.json/canvas/0"
+                }
+              ]
+            }
+          ],
+          "label": "_image-01",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/3171936696/_image-01/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": "Format",
+      "value": "glass plate negative"
+    },
+    {
+      "label": "Tags",
+      "value": "Cars"
+    },
+    {
+      "label": "Citation",
+      "value": "VPRS 12903/P1 unit 477, item 366/09"
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://danielwilksch.github.io/uv-demo/collection/3171936696/thumb.jpg",
+      "type": "Image"
+    }
+  ]
+}

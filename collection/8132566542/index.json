@@ -1,0 +1,1094 @@
+{
+  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json",
+  "type": "Manifest",
+  "label": "349/761 Basil BURDETT",
+  "sequences": [
+    {
+      "type": "Sequence",
+      "canvases": [
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/0",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/0/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/0/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-01/000028-P0003-003903-349_761-00000001.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "Praecipe"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/0"
+                }
+              ]
+            }
+          ],
+          "label": "Praecipe",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-01/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/1",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/1/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/1/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-02/000028-P0003-003903-349_761-00000002.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "Inventory"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/1"
+                }
+              ]
+            }
+          ],
+          "label": "Inventory",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-02/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/2",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/2/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/2/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-03/000028-P0003-003903-349_761-00000003.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-03"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/2"
+                }
+              ]
+            }
+          ],
+          "label": "_image-03",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-03/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/3",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/3/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/3/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-04/000028-P0003-003903-349_761-00000004.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-04"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/3"
+                }
+              ]
+            }
+          ],
+          "label": "_image-04",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-04/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/4",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/4/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/4/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-05/000028-P0003-003903-349_761-00000005.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-05"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/4"
+                }
+              ]
+            }
+          ],
+          "label": "_image-05",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-05/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/5",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/5/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/5/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-06/000028-P0003-003903-349_761-00000006.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-06"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/5"
+                }
+              ]
+            }
+          ],
+          "label": "_image-06",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-06/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/6",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/6/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/6/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-07/000028-P0003-003903-349_761-00000007.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-07"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/6"
+                }
+              ]
+            }
+          ],
+          "label": "_image-07",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-07/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/7",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/7/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/7/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-08/000028-P0003-003903-349_761-00000008.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-08"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/7"
+                }
+              ]
+            }
+          ],
+          "label": "_image-08",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-08/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/8",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/8/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/8/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-09/000028-P0003-003903-349_761-00000009.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-09"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/8"
+                }
+              ]
+            }
+          ],
+          "label": "_image-09",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-09/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/9",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/9/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/9/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-10/000028-P0003-003903-349_761-00000010.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-10"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/9"
+                }
+              ]
+            }
+          ],
+          "label": "_image-10",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-10/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/10",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/10/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/10/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-11/000028-P0003-003903-349_761-00000011.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-11"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/10"
+                }
+              ]
+            }
+          ],
+          "label": "_image-11",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-11/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/11",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/11/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/11/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-12/000028-P0003-003903-349_761-00000012.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-12"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/11"
+                }
+              ]
+            }
+          ],
+          "label": "_image-12",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-12/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/12",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/12/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/12/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-13/000028-P0003-003903-349_761-00000013.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "Fifteen Months' Account"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/12"
+                }
+              ]
+            }
+          ],
+          "label": "Fifteen Months' Account",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-13/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/13",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/13/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/13/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-14/000028-P0003-003903-349_761-00000014.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "Letters of Administration"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/13"
+                }
+              ]
+            }
+          ],
+          "label": "Letters of Administration",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-14/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/14",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/14/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/14/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-15/000028-P0003-003903-349_761-00000015.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-15"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/14"
+                }
+              ]
+            }
+          ],
+          "label": "_image-15",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-15/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/15",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/15/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/15/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-16/000028-P0003-003903-349_761-00000016.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "Election"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/15"
+                }
+              ]
+            }
+          ],
+          "label": "Election",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-16/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/16",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/16/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/16/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-17/000028-P0003-003903-349_761-00000017.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-17"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/16"
+                }
+              ]
+            }
+          ],
+          "label": "_image-17",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-17/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/17",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/17/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/17/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-18/000028-P0003-003903-349_761-00000018.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "Affadavit of Attesting Witness to Election"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/17"
+                }
+              ]
+            }
+          ],
+          "label": "Affadavit of Attesting Witness to Election",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-18/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/18",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/18/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/18/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-19/000028-P0003-003903-349_761-00000019.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-19"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/18"
+                }
+              ]
+            }
+          ],
+          "label": "_image-19",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-19/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/19",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/19/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/19/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-20/000028-P0003-003903-349_761-00000020.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "Affadavit of Publication of Notice and of Searches"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/19"
+                }
+              ]
+            }
+          ],
+          "label": "Affadavit of Publication of Notice and of Searches",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-20/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/20",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/20/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/20/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-21/000028-P0003-003903-349_761-00000021.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-21"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/20"
+                }
+              ]
+            }
+          ],
+          "label": "_image-21",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-21/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/21",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/21/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/21/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-22/000028-P0003-003903-349_761-00000022.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "Affadavit of Eric Russell"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/21"
+                }
+              ]
+            }
+          ],
+          "label": "Affadavit of Eric Russell",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-22/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/22",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/22/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/22/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-23/000028-P0003-003903-349_761-00000023.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-23"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/22"
+                }
+              ]
+            }
+          ],
+          "label": "_image-23",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-23/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/23",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/23/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/23/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-24/000028-P0003-003903-349_761-00000024.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-24"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/23"
+                }
+              ]
+            }
+          ],
+          "label": "_image-24",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-24/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/24",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/24/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/24/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-25/000028-P0003-003903-349_761-00000025.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-25"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/24"
+                }
+              ]
+            }
+          ],
+          "label": "_image-25",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-25/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/25",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/25/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/25/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-26/000028-P0003-003903-349_761-00000026.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "Consent"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/25"
+                }
+              ]
+            }
+          ],
+          "label": "Consent",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-26/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/26",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/26/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/26/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-27/000028-P0003-003903-349_761-00000027.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-27"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/26"
+                }
+              ]
+            }
+          ],
+          "label": "_image-27",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-27/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/27",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/27/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/27/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-28/000028-P0003-003903-349_761-00000028.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "Affadavit of Attesting Witness to Consent"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/27"
+                }
+              ]
+            }
+          ],
+          "label": "Affadavit of Attesting Witness to Consent",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-28/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/28",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/28/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/28/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-29/000028-P0003-003903-349_761-00000029.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-29"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/28"
+                }
+              ]
+            }
+          ],
+          "label": "_image-29",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-29/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/29",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/29/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/29/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-30/000028-P0003-003903-349_761-00000030.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "Affadavit of Mr Eric Russell of The Perpetual Executors and Trustees Association of Australasia Limited, in lieu of bond."
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/29"
+                }
+              ]
+            }
+          ],
+          "label": "Affadavit of Mr Eric Russell of The Perpetual Executors and Trustees Association of Australasia Limited, in lieu of bond.",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-30/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/30",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/30/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/30/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-31/000028-P0003-003903-349_761-00000031.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-31"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/30"
+                }
+              ]
+            }
+          ],
+          "label": "_image-31",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-31/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/31",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/31/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/31/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-32/000028-P0003-003903-349_761-00000032.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-32"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/31"
+                }
+              ]
+            }
+          ],
+          "label": "_image-32",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-32/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/32",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/32/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/32/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-33/000028-P0003-003903-349_761-00000033.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "Order for Letters of Administration"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/32"
+                }
+              ]
+            }
+          ],
+          "label": "Order for Letters of Administration",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-33/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        },
+        {
+          "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/33",
+          "type": "Canvas",
+          "content": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/33/annotationpage/0",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/33/annotation/0",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-34/000028-P0003-003903-349_761-00000034.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "label": "_image-34"
+                  },
+                  "target": "https://danielwilksch.github.io/uv-demo/collection/8132566542/index.json/canvas/33"
+                }
+              ]
+            }
+          ],
+          "label": "_image-34",
+          "thumbnail": [
+            {
+              "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/_image-34/thumb.jpg",
+              "type": "Image"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": [
+    {
+      "label": "Occupation",
+      "value": "Comr Aus Red Cross Abroad"
+    },
+    {
+      "label": "Residence",
+      "value": "Melbourne"
+    },
+    {
+      "label": "Date of death",
+      "value": "01 Feb 1942"
+    },
+    {
+      "label": "Date of grant",
+      "value": "20 Dec 1943"
+    },
+    {
+      "label": "Citation",
+      "value": "VPRS 28/P3 unit 3903, item 349/761"
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://danielwilksch.github.io/uv-demo/collection/8132566542/thumb.jpg",
+      "type": "Image"
+    }
+  ]
+}
